@@ -1,2 +1,1 @@
-#Docker version of issue
-##Для запуска необходимо:
+# Docker version of issue
